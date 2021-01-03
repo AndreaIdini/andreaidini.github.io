@@ -29,7 +29,7 @@ twitter_username: nuclearidini
 github_username:  andreaidini
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
